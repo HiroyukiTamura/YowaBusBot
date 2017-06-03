@@ -8,14 +8,14 @@
 
 namespace src;
 
-define("ftp_html_server", "sv2.html.xdomain.ne.jp");
-define("ftp_php_server", "sv2.php.xdomain.ne.jp");
-define("ftp_html_user", "wppsc.html.xdomain.jp");
-define("ftp_php_user", "wppsc.php.xdomain.jp");
-define("ftp_pass", "a0120777777");
+define("ftp_html_server", "*******************");
+define("ftp_php_server", "*****************");
+define("ftp_html_user", "****************");
+define("ftp_php_user", "****************");
+define("ftp_pass", "***************");
 define("HTML_ROOT_META", "radiocloud/");
-define("HTML_ROOT", "radiocloud/episodelist/");
-define("HTML_ROOT_PRG", "radiocloud3/pgrlist/");
+define("HTML_ROOT", "*********");
+define("HTML_ROOT_PRG", "************");
 //$remote_file = "/radiocloud/programlist.json";
 //$to_download_file = "programlist_downloaded.json";
 
