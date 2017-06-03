@@ -13,7 +13,7 @@ require_once "Scraper.php";
 require_once "EpScraper.php";
 require_once "FTP.php";
 
-define('pw', 'a0120777777');
+define('pw', '**********');
 define("CURSOR_LOG_PATH", "cursorLog.log");
 define("TEMPFILE_PATH", "tempfile.json");
 define("EP_DIR", "episodes/");
